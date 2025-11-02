@@ -1,0 +1,10 @@
+--- Fractional Knapsack Solution ---
+Knapsack Capacity: 20.00
+
+Item No	Profit		Weight		Amount to be taken
+2	60.000000	4.000000	1.000000
+4	50.000000	5.000000	1.000000
+1	100.000000	10.000000	1.000000
+3	120.000000	20.000000	0.050000
+
+Maximum profit: 216.000000
